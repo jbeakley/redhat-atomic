@@ -1,9 +1,12 @@
+# THIS PROJECT HAS BEEN DEPRECATED AND IS NO LONGER ACTIVELY MAINTAINED. PLEASE USE [OSE_SCANNER](https://github.com/blackducksoftware/ose-scanner) INSTEAD.
+
+
 # atomic_scanner
 
 
 # Intro
 
-This is a scanner ment for the the atomic platform.
+This is a scanner meant for the the atomic platform.
 
 
 # Usage
